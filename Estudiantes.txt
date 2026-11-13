@@ -1,0 +1,6 @@
+Sistema de registros estudiantes
+
+Nombre: Douglas Martinez
+Carrera: Ingenieria de sistemas
+año: segundo año
+edad: 18 años
